@@ -4,7 +4,7 @@ import { QueryClient, QueryClientProvider } from 'react-query';
 
 import { ReactQueryDevtools } from 'react-query/devtools';
 
-export default function MyApp({ Component, pageProps }): JSX.Element {
+export default function MyApp({ Component, pageProps }) {
 	const queryClient = new QueryClient();
 
 	return (
