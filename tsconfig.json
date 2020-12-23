@@ -41,5 +41,5 @@
 	"include": [
 		"**/*.ts",
 		"**/*.tsx"
-	]
+, "src/api/posts.js", "src/hooks/posts.js", "src/pages/index.jsx", "src/pages/_app.js"	]
 }
